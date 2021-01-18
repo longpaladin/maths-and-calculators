@@ -1,6 +1,12 @@
 """
 Author: Pang Jin Jia
 Last updated: 18 Jan 2021
+
+this is supposed to be an quick & easy import file to help find answers easily by using classes.
+assumptions:
+- all variables of the shapes are known
+- all units in centimetres (cm)
+- all answers in 2 decimal places
 """
 import math
 
