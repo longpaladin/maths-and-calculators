@@ -1,6 +1,8 @@
 """
 Author: Pang Jin Jia
 Last updated: 16 Jan 2021
+
+this file gives you a quick overview of your own CPF contribution based on age & monthly salary
 """
 
 salary = float(input("Enter your gross salary: $"))
